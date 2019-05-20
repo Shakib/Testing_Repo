@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10040" started-at="2019-05-20T19:11:11Z" finished-at="2019-05-20T19:11:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10040" started-at="2019-05-20T19:11:11Z" finished-at="2019-05-20T19:11:21Z">
+      <class name="Katt_Project.Katt_Project.FirstClass_Katt">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="setup" is-config="true" duration-ms="458" started-at="2019-05-20T19:11:11Z" finished-at="2019-05-20T19:11:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testResponseCode()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="testResponseCode" is-config="true" duration-ms="2380" started-at="2019-05-20T19:11:11Z" finished-at="2019-05-20T19:11:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResponseCode -->
+        <test-method status="PASS" signature="getFactByID()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="getFactByID" duration-ms="1533" started-at="2019-05-20T19:11:13Z" finished-at="2019-05-20T19:11:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFactByID -->
+        <test-method status="PASS" signature="testGetAmountOfTheAnimals_Cat()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="testGetAmountOfTheAnimals_Cat" duration-ms="1078" started-at="2019-05-20T19:11:15Z" finished-at="2019-05-20T19:11:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAmountOfTheAnimals_Cat -->
+        <test-method status="PASS" signature="testGetAmountOfTheAnimals_Horse()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="testGetAmountOfTheAnimals_Horse" duration-ms="910" started-at="2019-05-20T19:11:16Z" finished-at="2019-05-20T19:11:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetAmountOfTheAnimals_Horse -->
+        <test-method status="PASS" signature="testGetQueuedFacts()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="testGetQueuedFacts" duration-ms="2172" started-at="2019-05-20T19:11:17Z" finished-at="2019-05-20T19:11:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetQueuedFacts -->
+        <test-method status="PASS" signature="testGetRandomFact_givenAnimalType_Cat()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="testGetRandomFact_givenAnimalType_Cat" duration-ms="726" started-at="2019-05-20T19:11:19Z" finished-at="2019-05-20T19:11:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRandomFact_givenAnimalType_Cat -->
+        <test-method status="PASS" signature="testGetRandomFact_givenAnimalType_Horse()[pri:0, instance:Katt_Project.Katt_Project.FirstClass_Katt@4dfa3a9d]" name="testGetRandomFact_givenAnimalType_Horse" duration-ms="738" started-at="2019-05-20T19:11:20Z" finished-at="2019-05-20T19:11:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetRandomFact_givenAnimalType_Horse -->
+      </class> <!-- Katt_Project.Katt_Project.FirstClass_Katt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
